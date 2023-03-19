@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/coaled/sturdy-goggles/main/SnowWare%20-%20Developer.lua', true))()
